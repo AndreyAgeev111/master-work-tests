@@ -8,7 +8,7 @@ This test simulated a scenario in which a user creates a product and immediately
 
 ## Examples of results
 
-With the specified parameters in the `simulaiton.conf` configuration file, the following picture was obtained in `Grafana`:
+With the specified parameters in the `simulation.conf` configuration file, the following picture was obtained in `Grafana`:
 
 
 ![grafana board example](res/grafana.png)
