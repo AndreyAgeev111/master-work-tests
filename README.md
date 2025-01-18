@@ -19,4 +19,5 @@ That is, messages were successfully processed and erroneous ones were put into t
 To run the test, run the following command:
 ```bash
 sbt "Gatling / testOnly com.example.demo.CreateAndReserveProduct"
+sbt "Gatling / testOnly com.example.demo.CreateAndGetProduct"
 ``` 
